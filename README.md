@@ -69,3 +69,6 @@
 <h2>mark down使用方法</h2>https://blog.csdn.net/qcx321/article/details/53780672
 
 <h1>外部部署</h1> https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android
+
+<h1>性能</h1>
+<h2>gpu自动选择空闲GPU</h2>https://github.com/QuantumLiu/tf_gpu_manager
