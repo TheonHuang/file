@@ -66,5 +66,6 @@
 <h2>tensorflow</h2>的一些有关训练和线程的函数解释 https://www.cnblogs.com/wuzhitj/p/6648641.html
 <h2>tensorflow 读取csv</h2>
 <h2>google model research </h2>https://github.com/tensorflow/models/tree/master/research
+<h2>mark down使用方法</h2>https://blog.csdn.net/qcx321/article/details/53780672
 
 <h1>外部部署</h1> https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android
