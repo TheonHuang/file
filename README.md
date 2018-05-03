@@ -61,6 +61,7 @@
 <h2>github中各种网络的实现</h2>https://blog.csdn.net/isuccess88/article/details/69676819
 
 <h1>其他资料</h1>
+<h2>和我类似的资源<h2>https://blog.csdn.net/zhaoyu106/article/details/53157818
 <h2>清华镜像站</h2> https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/
 <h2>完整项目简单流程介绍</h2> https://blog.csdn.net/Koala_Tree/article/details/78021375?locationNum=10&fps=1
 <h2>tensorflow</h2>的一些有关训练和线程的函数解释 https://www.cnblogs.com/wuzhitj/p/6648641.html
