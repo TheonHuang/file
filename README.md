@@ -25,7 +25,7 @@
 <h1>nlp自然语言处理</h1>
 <h2>声音识别</h2>https://github.com/llSourcell/tensorflow_speech_recognition_demo
 <h2>tensorflow简单语音识别</h2>https://blog.csdn.net/u014365862/article/details/54889646
-<h2>wave_net demo</h2https://github.com/ibab/tensorflow-wavenet>
+<h2>wave_net demo</h2>https://github.com/ibab/tensorflow-wavenet
 <h2>变声器</2>https://github.com//andabi/deep-voice-conversion
 <h2>rnn tensorflow 进行minst 分类</h2>https://blog.csdn.net/eric2016_lv/article/details/71154162
 <h2>char-rnn</h2>
